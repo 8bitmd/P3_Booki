@@ -155,7 +155,15 @@ input[type="text"] {
     padding: 12px 10px 12px 10px;
 }
 
-.fa-solid {
+.fa-location-dot {
+    color: #000000;
+}
+
+.fa-magnifying-glass {
+    color: #ffffff;
+}
+
+.fa-money-bill-wave, .fa-person, .fa-heart, .fa-fire {
     color: var(--main-color);
 }
 
