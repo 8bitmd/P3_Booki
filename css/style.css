@@ -167,6 +167,10 @@ input[type="text"] {
     color: var(--main-color);
 }
 
+.fa-star {
+    color: #0065FC;
+}
+
 body {
     display: flex;
     justify-content: center;
@@ -288,6 +292,7 @@ footer div {
 
 .card-rating {
     margin-bottom: 5px;
+    margin-top: 10px;
 }
 
 .card-vertical {
